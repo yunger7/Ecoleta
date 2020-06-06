@@ -4,7 +4,7 @@
   "description": "Repositório para o projeto realizado na Next Level Week",
   "main": "src/server.js",
   "scripts": {
-    "start": "nodemon Projeto/src/server.js"
+    "start": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
