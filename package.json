@@ -4,7 +4,7 @@
   "description": "Repositório para o projeto realizado na Next Level Week",
   "main": "src/server.js",
   "scripts": {
-    "start": "node Projeto/src/server.js"
+    "start": "nodemon Projeto/src/server.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/yunger7/Next-Level-Week#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
