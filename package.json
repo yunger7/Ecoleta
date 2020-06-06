@@ -1,0 +1,23 @@
+{
+  "name": "Next-Level-Week",
+  "version": "1.0.0",
+  "description": "Repositório para o projeto realizado na Next Level Week",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunger7/Next-Level-Week.git"
+  },
+  "keywords": [],
+  "author": "Luís Galete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunger7/Next-Level-Week/issues"
+  },
+  "homepage": "https://github.com/yunger7/Next-Level-Week#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
