@@ -29,7 +29,7 @@ Os usuários podem buscar por pontos de coleta de forma *prática* e *rápida*, 
 * HTML5
 * CSS3
 * Javascript
-* NodeJS
+* Node.JS
 * Express
 * Nunjucks
 * SQLite3
