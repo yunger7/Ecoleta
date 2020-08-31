@@ -45,7 +45,7 @@ Simples! Aqui vai um guia pra você:
 4. Abra o seu navegador e digite `localhost:3000`
 E pronto!
 
-Ainda em dúvida? Confira [**esse guia detalhado**](guia-instalacao.md) que com certeza ele irá ajuar! Caso ainda houver dúvidas entre em contato comigo pelo discord (yunger#6953) que eu te ajudo assim que possível! :wink:
+Ainda em dúvida? Confira [**esse guia detalhado**](guia-instalacao.md) que com certeza ele irá ajuar!
 
 ---
 
