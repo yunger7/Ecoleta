@@ -24,4 +24,4 @@ Abra o git bash e digite `git clone https://github.com/yunger7/Next-Level-Week-1
 
 ![open-website-demonstration](images/step-by-step/6-localhost.gif)
 
-E pronto! Seu projeto já esta rodando no seu computador. Caso ainda haja dúvidas ou exista algum problema você pode abrir uma issue ou entrar em contato comigo pelo discord (yunger#6953).
+E pronto! Seu projeto já esta rodando no seu computador.
