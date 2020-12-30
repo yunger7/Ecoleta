@@ -42,10 +42,9 @@ Os usuários podem utilizar o mecanismo de busca para procurar os pontos de cole
 2. No terminal, instale as dependencias com o comando `npm install`
 3. Inicie o servidor com o comando `npm start`
 4. Abra o seu navegador e digite `localhost:3000`
-E pronto!
 
 ---
 
 # :rocket: Agradecimentos especiais
 
-Gostaria de agradecer a equipe da rocketseat e a comunidade do discord pela oportunidade e experiencia adquirida no evento, em especial ao [Myke Brito](https://twitter.com/maykbrito) por todas contribuições e por compartilhar seu conhecimento conosco.
+Gostaria de agradecer a equipe da rocketseat e a comunidade do discord pela oportunidade e experiencia adquirida no evento, em especial ao [Myke Brito](https://twitter.com/maykbrito) por suas contribuições e por compartilhar seu conhecimento conosco.
