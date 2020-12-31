@@ -7,7 +7,7 @@ Ecoleta é um projeto realizado durante a Next Level Week (antiga Semana OmniSta
 ## Finalidade da aplicação
 Permitir com que empresas registrem seus pontos de coleta, facilitando o usuário a encontrar um local de descarte adequado na sua cidade.
 
-![index-ecoleta](images/home-page.png)
+![index-ecoleta](https://i.imgur.com/NzNwAA6.png)
 
 ---
 
@@ -15,12 +15,12 @@ Permitir com que empresas registrem seus pontos de coleta, facilitando o usuári
 ## Cadastro 📋
 As empresas com interesse em cadastrar um ponto de coleta, preenchem um formulário simples, contendo os dados do ponto de coleta.
 
-![form-demonstration](images/form-demonstration.gif)
+![form-demonstration](https://i.imgur.com/R6sXV50.gif)
 
 ## Pesquisa 🔍
 Os usuários podem utilizar o mecanismo de busca para procurar os pontos de coleta na sua cidade.
 
-![search-feature](images/search-feature.gif)
+![search-feature](https://i.imgur.com/L6C2pNJ.gif)
 
 ---
 
